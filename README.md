@@ -6,3 +6,5 @@
 - git flow
 - pull requests
 - merge conflicts
+
+- Joe is fantastic at everything!
